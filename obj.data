@@ -1,5 +1,0 @@
-classes= 3
-train  = /content/data/train.txt
-valid  = /content/data/train.txt
-names = /home/handsome/darknet/cfg/obj.names
-backup = /content/drive/MyDrive/training
